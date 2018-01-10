@@ -22,6 +22,19 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+<<<<<<< HEAD
+        Me.btnCancel = New System.Windows.Forms.Button()
+        Me.SuspendLayout()
+        '
+        'btnCancel
+        '
+        Me.btnCancel.Location = New System.Drawing.Point(197, 227)
+        Me.btnCancel.Name = "btnCancel"
+        Me.btnCancel.Size = New System.Drawing.Size(75, 23)
+        Me.btnCancel.TabIndex = 0
+        Me.btnCancel.Text = "Cancel"
+        Me.btnCancel.UseVisualStyleBackColor = True
+=======
         Me.LastNameTextBox = New System.Windows.Forms.TextBox()
         Me.FirstName = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
@@ -32,6 +45,7 @@ Partial Class Form1
         Me.LastNameTextBox.Name = "LastNameTextBox"
         Me.LastNameTextBox.Size = New System.Drawing.Size(134, 20)
         Me.LastNameTextBox.TabIndex = 0
+>>>>>>> 0bd7c3470cc882ef67eb425aff62233542f191f3
         '
         'FirstName
         '
@@ -45,6 +59,16 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+<<<<<<< HEAD
+        Me.ClientSize = New System.Drawing.Size(284, 262)
+        Me.Controls.Add(Me.btnCancel)
+        Me.Name = "Form1"
+        Me.Text = "Form1"
+        Me.ResumeLayout(False)
+
+    End Sub
+    Friend WithEvents btnCancel As System.Windows.Forms.Button
+=======
         Me.ClientSize = New System.Drawing.Size(292, 273)
         Me.Controls.Add(Me.FirstName)
         Me.Controls.Add(Me.LastNameTextBox)
@@ -55,6 +79,10 @@ Partial Class Form1
 
     End Sub
     Friend WithEvents LastNameTextBox As System.Windows.Forms.TextBox
+<<<<<<< HEAD
     Friend WithEvents FirstName As System.Windows.Forms.TextBox
+=======
+>>>>>>> 0bd7c3470cc882ef67eb425aff62233542f191f3
+>>>>>>> 70a698c26e39a283e41a13641754fad3078bfa40
 
 End Class
