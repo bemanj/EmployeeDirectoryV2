@@ -1,0 +1,2 @@
+C:\Users\BK004313322\Documents\GitTest\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Users\BK004313322\Documents\GitTest\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
