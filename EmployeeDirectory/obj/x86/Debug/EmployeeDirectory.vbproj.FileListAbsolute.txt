@@ -7,3 +7,6 @@ C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.vbp
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
