@@ -22,9 +22,28 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New System.ComponentModel.Container()
+        Me.LastNameTextBox = New System.Windows.Forms.TextBox()
+        Me.SuspendLayout()
+        '
+        'LastNameTextBox
+        '
+        Me.LastNameTextBox.Location = New System.Drawing.Point(140, 50)
+        Me.LastNameTextBox.Name = "LastNameTextBox"
+        Me.LastNameTextBox.Size = New System.Drawing.Size(134, 20)
+        Me.LastNameTextBox.TabIndex = 0
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(292, 273)
+        Me.Controls.Add(Me.LastNameTextBox)
+        Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
     End Sub
+    Friend WithEvents LastNameTextBox As System.Windows.Forms.TextBox
 
 End Class
