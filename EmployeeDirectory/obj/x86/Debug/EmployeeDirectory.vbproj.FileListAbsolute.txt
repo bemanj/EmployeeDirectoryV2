@@ -7,3 +7,6 @@ C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.vbp
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
 C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
