@@ -1,2 +1,23 @@
+<<<<<<< HEAD
 C:\Users\BK004313322\Documents\GitTest\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
 C:\Users\BK004313322\Documents\GitTest\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+=======
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\bin\Debug\EmployeeDirectory.exe
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\bin\Debug\EmployeeDirectory.pdb
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\bin\Debug\EmployeeDirectory.xml
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.Form1.resources
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.Resources.resources
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.vbproj.GenerateResource.Cache
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Tessa\myapp\employeeDir\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+<<<<<<< HEAD
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Users\RU004269304\Desktop\EmpDirectory\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+=======
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.exe
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.xml
+C:\Users\lb004382477\Documents\Visual Studio 2010\Bemanj Source\Employee Directory V2\EmployeeDirectory\obj\x86\Debug\EmployeeDirectory.pdb
+>>>>>>> feature/sof_textbox_firstname
+>>>>>>> origin/develop
